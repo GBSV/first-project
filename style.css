@@ -9,11 +9,11 @@
   h4,
   p {
     margin: 0;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 80%;
   }
   
   body {
-    min-width: 850px;
+    min-width: 960px;
     font-family: 'Open Sans', Arial, sans-serif;
   }
